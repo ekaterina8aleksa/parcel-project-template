@@ -1,5 +1,11 @@
 @import './utils/variables';
+
 @import './base/reset-style';
+
+@import './components/container';
+@import './components/mobile-menu';
+@import './components/base-btn';
+
 
 @import './layout/hero-header';
 @import './layout/products';
